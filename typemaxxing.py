@@ -14,7 +14,7 @@ import time
 from google import genai
 from PIL import Image
 
-client = genai.Client(api_key="not gonna tell u")
+client = genai.Client(api_key="is_a_secret")
 
 # ── browser ──────────────────────────────────────────────────────────────────
 
