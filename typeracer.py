@@ -16,7 +16,7 @@ from PIL import Image
 
 client = genai.Client(api_key="is_a_secret")
 
-# ── browser ──────────────────────────────────────────────────────────────────
+# ── browser ─────────────────────────────────────────────────────────────────
 
 def attach_to_browser():
     options = Options()
@@ -110,10 +110,8 @@ def wait_for_trigger():
 # ── main ──────────────────────────────────────────────────────────────────────
 
 def main():
-    print("Attaching to existing Chrome window...")
     driver = attach_to_browser()
 
-    print("Waiting for paragraph to load, get into a race...")
     paragraph = scrape_paragraph(driver)
     print(f"\nScraped text: {paragraph}")
 
