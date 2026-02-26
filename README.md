@@ -63,4 +63,4 @@ each site required a different scraping approach since they all structure their 
 - typeracer bot includes a captcha solver using an AI vision API
 - human benchmark bot uses direct selenium key injection for maximum speed
 - all bots attach to an existing chrome session (no new windows opened)
-- i have good programming skills
+- i have really good programming skills
