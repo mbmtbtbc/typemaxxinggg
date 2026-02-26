@@ -40,7 +40,7 @@ each site required a different scraping approach since they all structure their 
 ## results
 
 ### monkeytype — 295 wpm (120s, 100% accuracy)
-<img width="1919" height="1012" alt="Screenshot 2026-02-26 212003" src="https://github.com/user-attachments/assets/e8e69cd0-1a44-41a5-9de6-62fb523b9c0f" />
+<img width="1919" height="1019" alt="Screenshot 2026-02-26 211532" src="https://github.com/user-attachments/assets/72377a9f-0d82-47fc-95ea-4649eec4aae3" />
 
 ---
 
@@ -50,7 +50,7 @@ each site required a different scraping approach since they all structure their 
 ---
 
 ### typeracer — 327 wpm (triggered captcha challenge)
-<img width="1919" height="1019" alt="Screenshot 2026-02-26 211532" src="https://github.com/user-attachments/assets/72377a9f-0d82-47fc-95ea-4649eec4aae3" />
+<img width="1919" height="1012" alt="Screenshot 2026-02-26 212003" src="https://github.com/user-attachments/assets/e8e69cd0-1a44-41a5-9de6-62fb523b9c0f" />
 
 > typeracer flagged the bot at 327 wpm and issued a captcha typing challenge requiring 245+ wpm to pass. the captcha solver uses an AI vision API to read and type the distorted text.
 
